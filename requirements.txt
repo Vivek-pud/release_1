@@ -32,3 +32,4 @@ traitlets==5.14.3
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1744302253/work
 wcwidth==0.2.13
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
+text
